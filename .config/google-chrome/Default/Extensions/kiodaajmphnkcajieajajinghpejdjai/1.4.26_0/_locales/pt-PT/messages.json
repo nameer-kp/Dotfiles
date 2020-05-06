@@ -1,0 +1,86 @@
+{
+  "extName": {
+    "message": "Poper Blocker"
+  },
+  "extDescription": {
+    "message": "Bloqueia as janelas indesejáveis e de segundo plano, não importa onde você faz clique em uma página."
+  },
+  "whitelistTitle": {
+    "message": "Sítios permitidos"
+  },
+  "whitelistTip": {
+    "message": "Para permitir que a abertura de janelas de um sítio em primeiro ou segundo plano, adicione-o a esta lista:"
+  },
+  "linksTitle": {
+    "message": "Links"
+  },
+  "rateLink": {
+    "message": "Avalie-nos com 5 estrelas"
+  },
+  "emailLink": {
+    "message": "Envie-nos um e-mail"
+  },
+  "bugLink": {
+    "message": "Informe um problema"
+  },
+  "popupsAllowed": {
+    "message": "Abertura de janelas é permitida neste sítio."
+  },
+  "popupsBlocked": {
+    "message": "Abertura de janelas está bloqueada neste sítio."
+  },
+  "allowButtonLabel": {
+    "message": "Permitir abertura de janelas"
+  },
+  "blockButtonLabel": {
+    "message": "Bloquear abertura de janelas"
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "badgeToggleLabel": {
+    "message": "Mostrar um sinal no botão da barra de ferramentas quando uma janela for bloqueada."
+  },
+  "notificationToggleLabel": {
+    "message": "Mostrar uma notificação na página quando uma janela for bloqueada."
+  },
+  "notificationMessage": {
+    "message": "Janela bloqueada"
+  },
+  "allowOnce": {
+    "message": "Permitir uma vez"
+  },
+  "allowAlways": {
+    "message": "Permitir sempre"
+  },
+  "disableNotifications": {
+    "message": "Desactivar notificações"
+  },
+  "feedback": {
+       "message": "Se perdemos algum popup, por favor clique aqui."
+   },
+   "thankyou": {
+       "message": "Obrigado pelo feedback"
+   },
+  "disablePB": {
+    "message": "Desabilitar"
+  },
+  "enablePB": {
+    "message": "Habilitar"
+  },
+  "makeInvisible": {
+    "message": "Tornar Invisível"
+  },
+  "makeVisible": {
+    "message": "Tornar visível"
+  },
+  "disabledPB": {
+    "message": "Popup Blocker Pro foi desativado"
+  },
+  "amount": {
+    "message": "Quantidade personalizada"
+  },
+  "donate":{
+    "message": "Doar"
+  }
+}

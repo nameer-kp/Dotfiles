@@ -1,0 +1,26 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "FlareGet Browser Integration extension replaces default download manager of Google Chrome by Flareget Download Manager.",
+   "homepage_url": "http://www.flareget.com/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwgEkPTGM40/k52vaQhv0gTAObH8EsNZr916xIk2OYZPZIcUyBIfWLYocamDhQj7l2WTeX/JTtOPH7JwippFv8V3HhmQ2ZV6JzBoKaPIkmZHDoGumVI5v/Ciz6foblXCf5mC6YMX1YGZ9v1R9sk6FznUG91SJTMXziowyIpDfnkwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "19.0",
+   "name": "FlareGet Integration",
+   "offline_enabled": true,
+   "permissions": [ "\u003Call_urls>", "webRequest", "webRequestBlocking", "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.50"
+}

@@ -1,0 +1,131 @@
+00:00:00.000212 main     VirtualBox XPCOM Server 6.1.4 r136177 linux.amd64 (Mar  9 2020 22:39:15) release log
+00:00:00.000214 main     Log opened 2020-03-19T18:36:42.912700000Z
+00:00:00.000214 main     Build Type: release
+00:00:00.000217 main     OS Product: Linux
+00:00:00.000218 main     OS Release: 5.5.8-arch1-1
+00:00:00.000218 main     OS Version: #1 SMP PREEMPT Fri, 06 Mar 2020 00:57:33 +0000
+00:00:00.000232 main     DMI Product Name: System Product Name
+00:00:00.000239 main     DMI Product Version: System Version
+00:00:00.000242 main     Firmware type: UEFI
+00:00:00.000821 main     Secure Boot: Disabled
+00:00:00.000843 main     Host RAM: 13992MB (13.6GB) total, 12345MB (12.0GB) available
+00:00:00.000845 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000845 main     Process ID: 60925
+00:00:00.000846 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001995 main     IPC socket path: /tmp/.vbox-nameer-ipc/ipcd
+00:00:00.105678 nspr-2   VirtualBox: object creation starts
+00:00:00.105760 nspr-2   Home directory: '/home/nameer/.config/VirtualBox'
+00:00:00.105935 nspr-2   Loading settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.107666 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.116562 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.117064 nspr-2   HostDnsMonitor: initializing
+00:00:00.117242 nspr-2   NAT: resolv.conf: nameserver 218.248.112.116
+00:00:00.117247 nspr-2   NAT: resolv.conf: nameserver 218.248.112.97
+00:00:00.117253 nspr-2   HostDnsMonitor: updating information
+00:00:00.117261 nspr-2   HostDnsMonitor: old information
+00:00:00.117263 nspr-2     no server entries
+00:00:00.117265 nspr-2     no domain set
+00:00:00.117266 nspr-2     no search string entries
+00:00:00.117268 nspr-2   HostDnsMonitor: new information
+00:00:00.117270 nspr-2     server 1: 218.248.112.116
+00:00:00.117272 nspr-2     server 2: 218.248.112.97
+00:00:00.117274 nspr-2     no domain set
+00:00:00.117276 nspr-2     no search string entries
+00:00:00.123562 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.123688 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.125142 nspr-2   OCI: Local config file '/home/nameer/.config/VirtualBox/oci_config' does not exist
+00:00:00.125180 nspr-2   OCI: Original config file '/home/nameer/.oci/config' does not exist
+00:00:00.125185 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.125195 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.125220 nspr-2   VirtualBox: object created
+00:00:22.541025 createBase Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:23.075582 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:00:23.264296 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:00:23.321069 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:23.328863 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:23.340814 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:00:28.810064 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:28.816317 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:32.112310 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:32.118177 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:33.975027 nspr-3   Launched VM: 2348819984 pid: 60997 (0xee45) frontend: GUI/Qt name: win7
+00:00:34.429588 nspr-4   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:00:34.515442 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:34.540789 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:34.059944 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:34.081793 nspr-4   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:54.276803 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:54.287236 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:02:24.095392 nspr-3   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:02:24.301270 nspr-5   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:02:25.010894 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:02:25.121272 nspr-5   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:02:27.021441 nspr-3   Launched VM: 2348820432 pid: 61141 (0xeed5) frontend: GUI/Qt name: win7
+00:02:27.464751 nspr-6   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:02:27.515051 nspr-5   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:27.531011 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:38.625844 nspr-7   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:03:41.293438 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:41.300241 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:48.242718 nspr-3   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:03:49.628382 nspr-7   Launched VM: 2348822912 pid: 61495 (0xf037) frontend: GUI/Qt name: win7
+00:03:50.093681 nspr-5   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:03:50.145709 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:50.167594 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:30.693580 nspr-3   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:04:34.160533 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:34.167916 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:41.569217 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a storage controller named 'SATA'}, preserve=false aResultDetail=0
+00:04:41.571791 nspr-8   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:04:41.576825 nspr-2   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:04:41.618339 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:04:42.801232 nspr-4   Launched VM: 2348836656 pid: 61566 (0xf07e) frontend: GUI/Qt name: win7
+00:04:43.204152 nspr-4   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:04:43.258686 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:04:43.276944 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:50.660820 nspr-6   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:04:54.344977 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:54.350918 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:05:25.316193 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:05:25.342834 nspr-8   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:05:27.300899 nspr-3   Launched VM: 2348838560 pid: 61642 (0xf0ca) frontend: GUI/Qt name: win7
+00:05:27.713830 nspr-4   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:05:27.774443 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:05:27.792289 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:13.297049 nspr-2   Saving settings file "/run/media/nameer/shameem's backup/vms/win7/win7.vbox" with version "1.15-linux"
+00:06:17.909220 nspr-7   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:17.914812 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:06:29.309226 nspr-9   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:48.955074 createBase Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:52.478778 nspr-3   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:06:52.487640 nspr-9   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:06:52.491621 nspr-9   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:52.500240 nspr-8   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:06:52.506154 nspr-6   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:06:54.610648 nspr-7   Launched VM: 2348837264 pid: 61790 (0xf15e) frontend: GUI/Qt name: win7
+00:06:55.037629 nspr-6   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:06:55.094635 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:06:55.115671 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:07:43.182214 nspr-2   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:07:43.188690 nspr-3   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:08:08.773429 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:11.778101 nspr-9   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:12.183478 nspr-8   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:08:14.783255 nspr-2   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:23:41.931795 nspr-8   ERROR [COM]: aRC=NS_ERROR_NOT_IMPLEMENTED (0x80004001) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Method setDefaultAdditionsISO is not implemented}, preserve=false aResultDetail=0
+00:24:26.945335 nspr-3   Saving settings file "/home/nameer/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:26.949619 nspr-2   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:32:28.880804 nspr-3   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:32:38.633529 nspr-9   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:32:38.639906 nspr-6   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp6s0f3u3: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:32:49.858384 nspr-3   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:44:28.233324 nspr-7   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:44:28.505754 nspr-6   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:44:32.090114 nspr-9   Saving settings file "/home/nameer/VirtualBox VMs/win7/win7.vbox" with version "1.15-linux"
+00:44:38.107602 main     VirtualBox: object deletion starts
+00:44:38.107657 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/nameer/VirtualBox VMs/win7/win7.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:44:38.108150 main     HostDnsMonitor: shutting down ...
+00:44:38.113542 main     HostDnsMonitor: shut down
+00:44:38.517201 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:44:43.130196 main     {00007f92900181a0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:44:43.131343 main     VirtualBox: object deleted

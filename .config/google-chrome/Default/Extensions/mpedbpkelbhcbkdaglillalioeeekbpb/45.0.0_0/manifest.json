@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.wgt.com/chrome/full/?v=45.0.0"
+      },
+      "urls": [ "http://www.wgt.com/chrome/full/", "http://www.wgt.com/home.aspx" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFDKkjukboDsg8bIIgWTlW3/4JdAsh+nkHXLdhlQe0gAhI2qiDdvjnPzxKn6Efxi795mg2BtOaXDk54kyEa0ba7UskpyXmxDSHdkP/1dppRAAdtJ3YcQCQcjB7M3G7gLo3BK8T1oPU88Hm1afmRn7dq6gHTXI86LEIbRGwRfx/8wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "45.0.0"
+}

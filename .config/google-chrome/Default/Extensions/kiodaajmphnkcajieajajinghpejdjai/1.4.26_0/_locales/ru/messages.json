@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Разрешить Всегда"
+   },
+   "allowButtonLabel": {
+      "message": "Разрешить всплывающие окна"
+   },
+   "allowOnce": {
+      "message": "Разрешить один раз."
+   },
+   "amount": {
+      "message": "Пользовательская сумма"
+   },
+   "badgeToggleLabel": {
+      "message": "Показать значок на панели инструментов кнопку, когда всплывающее окно заблокировано."
+   },
+   "blockButtonLabel": {
+      "message": "Блокировать всплывающие окна"
+   },
+   "bugLink": {
+      "message": "Сообщить об ошибке"
+   },
+   "disableNotifications": {
+      "message": "Отключить уведомления"
+   },
+   "disablePB": {
+      "message": "запрещать"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro отключен"
+   },
+   "donate": {
+      "message": "Поддержать"
+   },
+   "emailLink": {
+      "message": "Пишите нам"
+   },
+   "enablePB": {
+      "message": "включить"
+   },
+   "extDescription": {
+      "message": "Блокирует всплывающие окна и позволяет вам чувствовать себя лучше."
+   },
+   "extName": {
+      "message": "Popup Blocker Pro"
+   },
+   "feedback": {
+      "message": "Если мы пропустили всплывающее окно, нажмите здесь."
+   },
+   "linksTitle": {
+      "message": "Ссылки"
+   },
+   "makeInvisible": {
+      "message": "Сделать невидимым"
+   },
+   "makeVisible": {
+      "message": "Сделать видимым"
+   },
+   "notificationMessage": {
+      "message": "Всплывающее окно Заблокирован"
+   },
+   "notificationToggleLabel": {
+      "message": "Показать уведомление на странице, когда всплывающее окно заблокировано."
+   },
+   "options": {
+      "message": "Параметры"
+   },
+   "popupsAllowed": {
+      "message": "Всплывающие окна разрешены на этом сайте."
+   },
+   "popupsBlocked": {
+      "message": "Всплывающие окна заблокированы на этом сайте."
+   },
+   "rateLink": {
+      "message": "Оцените нас 5 звездами"
+   },
+   "thankyou": {
+      "message": "Спасибо за ваш отзыв"
+   },
+   "whitelistTip": {
+      "message": "Чтобы разрешить всплывающие окна с веб-сайта, добавте его в этот список."
+   },
+   "whitelistTitle": {
+      "message": "Белый список сайтов"
+   }
+}

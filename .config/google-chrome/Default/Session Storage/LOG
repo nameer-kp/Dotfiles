@@ -1,0 +1,21 @@
+2020/05/06-11:25:09.338 49d Reusing MANIFEST /home/nameer/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/05/06-11:25:09.338 49d Recovering log #227
+2020/05/06-11:25:09.341 49d Reusing old log /home/nameer/.config/google-chrome/Default/Session Storage/000227.log 
+2020/05/06-11:37:34.578 72b Level-0 table #231: started
+2020/05/06-11:37:34.582 72b Level-0 table #231: 20139 bytes OK
+2020/05/06-11:37:34.585 72b Delete type=0 #227
+2020/05/06-12:02:14.586 72b Level-0 table #233: started
+2020/05/06-12:02:14.591 72b Level-0 table #233: 20843 bytes OK
+2020/05/06-12:02:14.595 72b Delete type=0 #230
+2020/05/06-12:02:14.595 72b Compacting 4@0 + 1@1 files
+2020/05/06-12:02:14.606 72b Generated table #234@0: 5036 keys, 120916 bytes
+2020/05/06-12:02:14.606 72b Compacted 4@0 + 1@1 files => 120916 bytes
+2020/05/06-12:02:14.608 72b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/06-12:02:14.609 72b Delete type=2 #226
+2020/05/06-12:02:14.609 72b Delete type=2 #231
+2020/05/06-12:02:14.609 72b Delete type=2 #223
+2020/05/06-12:02:14.609 72b Delete type=2 #233
+2020/05/06-12:02:14.609 72b Delete type=2 #228
+2020/05/06-12:12:58.293 72b Level-0 table #236: started
+2020/05/06-12:12:58.296 72b Level-0 table #236: 16470 bytes OK
+2020/05/06-12:12:58.298 72b Delete type=0 #232

@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "İstek 2 karakterden daha uzun olmalı "
+   },
+   "appButtonDesc": {
+      "message": "Torrent Arama"
+   },
+   "appDesc": {
+      "message": "Sel kitap için kolay ve hızlı arama, müzik, video."
+   },
+   "appName": {
+      "message": "Rutor Torrent Arama"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrent arama"
+   },
+   "popupBlockMessage": {
+      "message": "Proxy ayarları ile yanlış bir şey!"
+   },
+   "popupEnableMessage": {
+      "message": "Rutor.info proxy Ayarları Uygula engelini kaldırmak için."
+   },
+   "proxyDisabled": {
+      "message": "Proxy ayarları kapalı"
+   },
+   "proxyEnabled": {
+      "message": "Proxy ayarları uygulanır"
+   }
+}

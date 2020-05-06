@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Altijd toestaan"
+   },
+   "allowButtonLabel": {
+      "message": "Sta pop-ups toe"
+   },
+   "allowOnce": {
+      "message": "Eenmaal toestaan"
+   },
+   "amount": {
+      "message": "Aangepaste hoeveelheid"
+   },
+   "badgeToggleLabel": {
+      "message": "Toon een badge op de werkbalkknop wanneer er een pop-up wordt geblokkeerd."
+   },
+   "blockButtonLabel": {
+      "message": "Blokkeer pop-ups"
+   },
+   "bugLink": {
+      "message": "Meld een bug"
+   },
+   "disableNotifications": {
+      "message": "Schakel meldingen uit"
+   },
+   "disablePB": {
+      "message": "onbruikbaar maken"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro is uitgeschakeld"
+   },
+   "donate": {
+      "message": "Schenken"
+   },
+   "emailLink": {
+      "message": "E-mail ons"
+   },
+   "enablePB": {
+      "message": "in staat stellen"
+   },
+   "extDescription": {
+      "message": "Blokkeert pop-ups en pop-unders, ongeacht waar u op een pagina klikt."
+   },
+   "extName": {
+      "message": "Pop-up  Blokkering"
+   },
+   "feedback": {
+      "message": "Als we een popup hebben gemist, klik dan hier."
+   },
+   "linksTitle": {
+      "message": "Koppelingen"
+   },
+   "makeInvisible": {
+      "message": "Maak onzichtbaar"
+   },
+   "makeVisible": {
+      "message": "Zichtbaar maken"
+   },
+   "notificationMessage": {
+      "message": "Pop-up Geblokkeerd"
+   },
+   "notificationToggleLabel": {
+      "message": "Toon een melding op pagina wanneer er een pop-up wordt geblokkeerd."
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "popupsAllowed": {
+      "message": "Pop-ups worden op deze website toegestaan."
+   },
+   "popupsBlocked": {
+      "message": "Pop-ups worden op deze website geblokkeerd."
+   },
+   "rateLink": {
+      "message": "Beoordeel ons met 5 sterren"
+   },
+   "thankyou": {
+      "message": "Bedankt voor de feedback"
+   },
+   "whitelistTip": {
+      "message": "Om ​​pop-ups / pop-unders van een website toe te staan, voeg dit aan deze lijst toe:"
+   },
+   "whitelistTitle": {
+      "message": "Toegestane Websites"
+   }
+}

@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Allow Always"
+   },
+   "allowButtonLabel": {
+      "message": "Allow Popups"
+   },
+   "allowOnce": {
+      "message": "Allow Once"
+   },
+   "amount": {
+      "message": "Custom amount"
+   },
+   "badgeToggleLabel": {
+      "message": "Show a badge on the toolbar button when a popup is blocked."
+   },
+   "blockButtonLabel": {
+      "message": "Block Popups"
+   },
+   "bugLink": {
+      "message": "Report a bug"
+   },
+   "disableNotifications": {
+      "message": "Disable Notifications"
+   },
+   "disablePB": {
+      "message": "Disable Popup Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro has been disabled"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "emailLink": {
+      "message": "Email us"
+   },
+   "enablePB": {
+      "message": "Enable Popup Blocker Pro"
+   },
+   "extDescription": {
+      "message": "Blocks popups and popunders and makes you feel better."
+   },
+   "extName": {
+      "message": "Popup Blocker Pro"
+   },
+   "feedback": {
+      "message": "If we missed any popup, please click here."
+   },
+   "linksTitle": {
+      "message": "Links"
+   },
+   "makeInvisible": {
+      "message": "Make Invisible"
+   },
+   "makeVisible": {
+      "message": "Make Visible"
+   },
+   "notificationMessage": {
+      "message": "Popup Blocked"
+   },
+   "notificationToggleLabel": {
+      "message": "Show an on-page notification when a popup is blocked."
+   },
+   "options": {
+      "message": "Options"
+   },
+   "popupsAllowed": {
+      "message": "Popups are allowed on this website."
+   },
+   "popupsBlocked": {
+      "message": "Popups are blocked on this website."
+   },
+   "rateLink": {
+      "message": "Rate us 5 stars"
+   },
+   "thankyou": {
+      "message": "Thank you for the feedback"
+   },
+   "whitelistTip": {
+      "message": "To allow popups/popunders from a website, add it to this list:"
+   },
+   "whitelistTitle": {
+      "message": "Whitelisted Sites"
+   }
+}

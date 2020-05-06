@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Permitir sempre"
+   },
+   "allowButtonLabel": {
+      "message": "Permitir pop-ups"
+   },
+   "allowOnce": {
+      "message": "Permitir desta vez"
+   },
+   "amount": {
+      "message": "Quantidade personalizada"
+   },
+   "badgeToggleLabel": {
+      "message": "Mostrar um sinalizador na barra de ferramentas quando uma pop-up é bloqueada."
+   },
+   "blockButtonLabel": {
+      "message": "Bloquear pop-ups"
+   },
+   "bugLink": {
+      "message": "Reporte um erro"
+   },
+   "disableNotifications": {
+      "message": "Desativar notificações"
+   },
+   "disablePB": {
+      "message": "Desabilitar"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro foi desativado"
+   },
+   "donate": {
+      "message": "Doar"
+   },
+   "emailLink": {
+      "message": "Mande-nos um e-mail"
+   },
+   "enablePB": {
+      "message": "Habilitar"
+   },
+   "extDescription": {
+      "message": "Bloqueie pop-ups e pop-unders independente de onde você clique na página"
+   },
+   "extName": {
+      "message": "Poper Blocker"
+   },
+   "feedback": {
+      "message": "Se perdemos algum popup, por favor clique aqui."
+   },
+   "linksTitle": {
+      "message": "Links"
+   },
+   "makeInvisible": {
+      "message": "Tornar Invisível"
+   },
+   "makeVisible": {
+      "message": "Tornar visível"
+   },
+   "notificationMessage": {
+      "message": "Pop-up Bloqueada"
+   },
+   "notificationToggleLabel": {
+      "message": "Mostrar uma notificação na página quando uma pop-up é bloqueada."
+   },
+   "options": {
+      "message": "Opções"
+   },
+   "popupsAllowed": {
+      "message": "Pop-ups são permitidas neste site."
+   },
+   "popupsBlocked": {
+      "message": "Pop-ups são bloqueadas neste site."
+   },
+   "rateLink": {
+      "message": "Classifique-nos com 5 estrelas"
+   },
+   "thankyou": {
+      "message": "Obrigado pelo feedback"
+   },
+   "whitelistTip": {
+      "message": "Para permitir pop-ups / pop-unders de um site, adicione-o a esta lista:"
+   },
+   "whitelistTitle": {
+      "message": "Sites Seguros"
+   }
+}

@@ -1,0 +1,87 @@
+{
+  "extName": {
+    "message": "Poper Blocker"
+  },
+  "extDescription": {
+    "message": "Bloquea las ventanas emergentes y pop-unders sin importar donde haga clic en la página."
+  },
+  "whitelistTitle": {
+    "message": "Sitios en lista blanca"
+  },
+  "whitelistTip": {
+    "message": "Para permitir ventanas emergentes y pop-unders de un sitio web, agréguelo a esta lista:"
+  },
+  "linksTitle": {
+    "message": "Enlaces"
+  },
+  "rateLink": {
+    "message": "Califíquenos con 5 estrellas"
+  },
+  "emailLink": {
+    "message": "Envíenos un correo electrónico"
+  },
+  "bugLink": {
+    "message": "Informar de un fallo"
+  },
+  "popupsAllowed": {
+    "message": "Se permiten ventanas emergentes de este sitio web."
+  },
+  "popupsBlocked": {
+    "message": "Las ventanas emergentes de este sitio web están bloqueadas."
+  },
+  "allowButtonLabel": {
+    "message": "Permitir ventanas emergentes"
+  },
+  "blockButtonLabel": {
+    "message": "Bloquear ventanas emergentes"
+  },
+  "options": {
+    "message": "Opciones"
+  },
+  "badgeToggleLabel": {
+    "message": "Mostrar una insignia en la barra de herramientas cuando se bloquee una ventana emergente."
+  },
+  "notificationToggleLabel": {
+    "message": "Mostrar una notificación en la página cuando se bloquee una ventana emergente."
+  },
+  "notificationMessage": {
+    "message": "Ventana emergente bloqueada"
+  },
+  "allowOnce": {
+    "message": "Permitir una vez"
+  },
+  "allowAlways": {
+    "message": "Permitir siempre"
+  },
+  "disableNotifications": {
+    "message": "Desactivar notificaciones"
+  },
+  "feedback": {
+       "message": "Si nos perdimos cualquier ventana emergente, haga clic aquí."
+   },
+   "thankyou": {
+       "message": "Gracias por los comentarios"
+   },
+  "disablePB": {
+    "message": "Deshabilitar Popup Blocker Pro"
+  },
+  "enablePB": {
+    "message": "Habilitar Popup Blocker Pro"
+  },
+  "makeInvisible": {
+    "message": "Hacer invisible"
+  },
+  "makeVisible": {
+    "message": "Hacer visible"
+  },
+  "disabledPB": {
+    "message": "Popup Blocker Pro ha sido desactivado"
+  },
+  "amount": {
+    "message": "Cantidad personalizada"
+  },
+  "donate":{
+    "message": "Donar"
+  }
+
+}

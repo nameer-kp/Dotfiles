@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Žiadosť musí byť dlhšia ako 2 znaky"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Search"
+   },
+   "appDesc": {
+      "message": "Jednoduché a rýchle vyhľadávanie na knihy, hudbu, videá, v torrentov."
+   },
+   "appName": {
+      "message": "Rutor Torrent Search"
+   },
+   "appPlaceholderPopup": {
+      "message": "Vyhľadávanie torrentov"
+   },
+   "popupBlockMessage": {
+      "message": "Niečo zlé nastavenia proxy!"
+   },
+   "popupEnableMessage": {
+      "message": "Na odblokovanie rutor.info použiť nastavenia servera proxy."
+   },
+   "proxyDisabled": {
+      "message": "Nastavenia servera Proxy, vypnutý"
+   },
+   "proxyEnabled": {
+      "message": "Nastavenia servera Proxy, ktoré uplatňuje"
+   }
+}

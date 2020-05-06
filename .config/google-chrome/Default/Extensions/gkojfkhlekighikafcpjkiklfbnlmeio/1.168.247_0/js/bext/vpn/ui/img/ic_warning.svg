@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#ffbe00}.cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="ic_error_32" transform="translate(-1217 -123)">
+        <path id="Rectangle_1672" d="M0 0h32v32H0z" class="cls-1" data-name="Rectangle 1672" transform="translate(1217 123)"/>
+        <g id="Group_4046" data-name="Group 4046" transform="translate(1219 126)">
+            <path id="Polygon_1_1_" d="M12.6.8a1.633 1.633 0 0 1 2.2-.6 1.7 1.7 0 0 1 .6.6l12.4 20.8a1.55 1.55 0 0 1-.6 2.2 1.884 1.884 0 0 1-.8.2H1.6A1.58 1.58 0 0 1 0 22.4a1.884 1.884 0 0 1 .2-.8z" class="cls-2"/>
+            <path id="Rectangle_1670_1_" d="M0 0h2v8H0z" class="cls-3" transform="translate(13 8)"/>
+            <path id="Rectangle_1671_1_" d="M0 0h2v2H0z" class="cls-3" transform="translate(13 18)"/>
+        </g>
+    </g>
+</svg>

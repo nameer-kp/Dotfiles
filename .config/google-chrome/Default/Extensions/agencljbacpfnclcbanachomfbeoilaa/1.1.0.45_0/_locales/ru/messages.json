@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Запрос должен быть больше, чем 2 символов"
+   },
+   "appButtonDesc": {
+      "message": "Поиск по торрентам"
+   },
+   "appDesc": {
+      "message": "Быстрый поиск книг, музыки и фильмов в торрентах."
+   },
+   "appName": {
+      "message": "Поиск по торрентам Rutor"
+   },
+   "appPlaceholderPopup": {
+      "message": "Поиск по торрентам"
+   },
+   "popupBlockMessage": {
+      "message": "Не удается установить настройки прокси!"
+   },
+   "popupEnableMessage": {
+      "message": "Для доступа к rutor.info примените настройки прокси."
+   },
+   "proxyDisabled": {
+      "message": "Настройки прокси выключены"
+   },
+   "proxyEnabled": {
+      "message": "Настройки прокси применены"
+   }
+}

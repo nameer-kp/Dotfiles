@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Pieprasījumu nedrīkst būt ilgāks par 2 rakstzīmes"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Meklēšana"
+   },
+   "appDesc": {
+      "message": "Viegli un ātri meklēt grāmatas, mūziku, video straumēm."
+   },
+   "appName": {
+      "message": "Rutor Torrent Meklēšana"
+   },
+   "appPlaceholderPopup": {
+      "message": "Meklēt straumēm"
+   },
+   "popupBlockMessage": {
+      "message": "Kaut kas nepareizi ar starpniekservera iestatījumus!"
+   },
+   "popupEnableMessage": {
+      "message": "Lai atbloķētu rutor.info pieteikties starpniekservera iestatījumus."
+   },
+   "proxyDisabled": {
+      "message": "Starpniekservera iestatījumi izslēgts"
+   },
+   "proxyEnabled": {
+      "message": "Starpniekservera iestatījumiem"
+   }
+}

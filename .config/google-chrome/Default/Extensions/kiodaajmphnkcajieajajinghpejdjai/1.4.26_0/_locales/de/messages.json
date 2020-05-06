@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Immer zulassen"
+   },
+   "allowButtonLabel": {
+      "message": "Pop-ups zulassen"
+   },
+   "allowOnce": {
+      "message": "Einmal zulassen"
+   },
+   "amount": {
+      "message": "Benutzerdefinierter Betrag"
+   },
+   "badgeToggleLabel": {
+      "message": "Wenn ein Pop-up blockiert wird, soll in der Werkzeugleiste ein Symbol erscheinen."
+   },
+   "blockButtonLabel": {
+      "message": "Pop-ups blockieren"
+   },
+   "bugLink": {
+      "message": "Fehler melden"
+   },
+   "disableNotifications": {
+      "message": "Meldungen deaktivieren"
+   },
+   "disablePB": {
+      "message": "Deaktivieren Sie den Popup-Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro wurde deaktiviert"
+   },
+   "donate": {
+      "message": "Spenden"
+   },
+   "emailLink": {
+      "message": "Senden Sie uns eine E-Mail"
+   },
+   "enablePB": {
+      "message": "Aktivieren Sie Popup-Blocker Pro"
+   },
+   "extDescription": {
+      "message": "Blockiert Pop-ups und Pop-unders, egal wohin Sie auf einer Seite klicken."
+   },
+   "extName": {
+      "message": "Poper Blocker"
+   },
+   "feedback": {
+      "message": "Wenn wir ein Popup übersehen haben, klicken Sie bitte hier."
+   },
+   "linksTitle": {
+      "message": "Links"
+   },
+   "makeInvisible": {
+      "message": "Mach unsichtbar"
+   },
+   "makeVisible": {
+      "message": "Sichtbar machen"
+   },
+   "notificationMessage": {
+      "message": "Pop-up blockiert"
+   },
+   "notificationToggleLabel": {
+      "message": "Wenn ein Pop-up blockiert wird, soll auf der Seite eine Meldung erscheinen."
+   },
+   "options": {
+      "message": "Optionen"
+   },
+   "popupsAllowed": {
+      "message": "Pop-ups sind auf dieser Website erlaubt."
+   },
+   "popupsBlocked": {
+      "message": "Pop-ups sind auf dieser Website blockiert."
+   },
+   "rateLink": {
+      "message": "Bewerten Sie uns mit 5 Sternen"
+   },
+   "thankyou": {
+      "message": "Danke für die Bewertung"
+   },
+   "whitelistTip": {
+      "message": "Wenn Sie Pop-ups/Pop-unders für eine Webseite zulassen möchten, fügen Sie diese der Liste hinzu:"
+   },
+   "whitelistTitle": {
+      "message": "Whitelist-Seiten"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "La sol·licitud haurà de ser superior a 2 personatges"
+   },
+   "appButtonDesc": {
+      "message": "Torrent De Cerca"
+   },
+   "appDesc": {
+      "message": "Fàcil i ràpid de cerca de llibres, música, vídeos en torrents."
+   },
+   "appName": {
+      "message": "Rutor Torrent De Cerca"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrents cerca"
+   },
+   "popupBlockMessage": {
+      "message": "Alguna cosa malament amb la configuració del servidor intermediari!"
+   },
+   "popupEnableMessage": {
+      "message": "Per desbloquejar rutor.info aplicar la configuració del servidor intermediari."
+   },
+   "proxyDisabled": {
+      "message": "La configuració del servidor intermediari apaga"
+   },
+   "proxyEnabled": {
+      "message": "La configuració del servidor intermediari aplicada"
+   }
+}

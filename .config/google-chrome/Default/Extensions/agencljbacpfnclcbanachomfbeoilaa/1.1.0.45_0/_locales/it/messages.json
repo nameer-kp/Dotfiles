@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "La richiesta deve essere più lungo di 2 caratteri"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Search"
+   },
+   "appDesc": {
+      "message": "Ricerca semplice e veloce per libri, musica, video in torrenti."
+   },
+   "appName": {
+      "message": "Rutor Di Ricerca Torrent"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrent search"
+   },
+   "popupBlockMessage": {
+      "message": "Qualcosa di sbagliato con le impostazioni proxy!"
+   },
+   "popupEnableMessage": {
+      "message": "Per sbloccare rutor.info applicare le impostazioni proxy."
+   },
+   "proxyDisabled": {
+      "message": "Impostazioni Proxy spento"
+   },
+   "proxyEnabled": {
+      "message": "Impostazioni Proxy applicata"
+   }
+}

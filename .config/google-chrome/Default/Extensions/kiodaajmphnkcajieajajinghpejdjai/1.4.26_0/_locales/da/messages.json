@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Tillad altid"
+   },
+   "allowButtonLabel": {
+      "message": "Tillad popups"
+   },
+   "allowOnce": {
+      "message": "Tillad én gang"
+   },
+   "amount": {
+      "message": "Brugerdefineret beløb"
+   },
+   "badgeToggleLabel": {
+      "message": "Vis et badge på knappen på værktøjslinjen, når en popup er blokeret."
+   },
+   "blockButtonLabel": {
+      "message": "Block popups"
+   },
+   "bugLink": {
+      "message": "Rapporter en fejl"
+   },
+   "disableNotifications": {
+      "message": "Deaktiver meddelelser"
+   },
+   "disablePB": {
+      "message": "Deaktiver Popup Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro er blevet deaktiveret"
+   },
+   "donate": {
+      "message": "Doner"
+   },
+   "emailLink": {
+      "message": "E-mail os"
+   },
+   "enablePB": {
+      "message": "Aktivér popupblokerer Pro"
+   },
+   "extDescription": {
+      "message": "Blokerer popups og popunders, uanset hvor du klikker på en side."
+   },
+   "extName": {
+      "message": "Poper Blocker"
+   },
+   "feedback": {
+      "message": "Hvis vi savnede nogen popup, skal du klikke her."
+   },
+   "linksTitle": {
+      "message": "Links"
+   },
+   "makeInvisible": {
+      "message": "Gør usynlig"
+   },
+   "makeVisible": {
+      "message": "Gør synlig"
+   },
+   "notificationMessage": {
+      "message": "Popup Blokeret"
+   },
+   "notificationToggleLabel": {
+      "message": "Vis en meddelelse på siden, når en popup er blokeret."
+   },
+   "options": {
+      "message": "Indstillinger"
+   },
+   "popupsAllowed": {
+      "message": "Popups er tilladt på denne hjemmeside."
+   },
+   "popupsBlocked": {
+      "message": "Popups blokeres på denne hjemmeside."
+   },
+   "rateLink": {
+      "message": "Bedøm os 5 stjerner"
+   },
+   "thankyou": {
+      "message": "Tak for tilbagemeldingen"
+   },
+   "whitelistTip": {
+      "message": "Hvis du vil tillade popups/popunders fra en hjemmeside, skal den tilføjes til denne liste:"
+   },
+   "whitelistTitle": {
+      "message": "Positivlisten over hjemmesider"
+   }
+}

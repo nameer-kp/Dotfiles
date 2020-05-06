@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "السماح دائمًا"
+   },
+   "allowButtonLabel": {
+      "message": "السماح بالنوافذ المنبثقة"
+   },
+   "allowOnce": {
+      "message": "السماح مرة واحدة"
+   },
+   "amount": {
+      "message": "مبلغ مخصص"
+   },
+   "badgeToggleLabel": {
+      "message": "تظهر شارة على زر شريط الأدوات عندما يتم حظر نافذة منبثقة."
+   },
+   "blockButtonLabel": {
+      "message": "حظر النوافذ المنبثقة"
+   },
+   "bugLink": {
+      "message": "أبلغ عن خطأ"
+   },
+   "disableNotifications": {
+      "message": "تعطيل الإخطارات"
+   },
+   "disablePB": {
+      "message": "تعطيل Popup Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "تم تعطيل Popup Blocker Pro"
+   },
+   "donate": {
+      "message": "تبرع"
+   },
+   "emailLink": {
+      "message": "راسلنا بالبريد الإلكتروني"
+   },
+   "enablePB": {
+      "message": "تمكين Popup Blocker Pro"
+   },
+   "extDescription": {
+      "message": "احظر النوافذ المنبثقة والسفلية بغض النظر عن المكان الذي تنقر فيه في الصفحة."
+   },
+   "extName": {
+      "message": "حاظر النوافذ"
+   },
+   "feedback": {
+      "message": "إذا فاتتنا أي نافذة منبثقة ، يرجى النقر هنا."
+   },
+   "linksTitle": {
+      "message": "الروابط"
+   },
+   "makeInvisible": {
+      "message": "جعل غير مرئية"
+   },
+   "makeVisible": {
+      "message": "يجعله مرئي"
+   },
+   "notificationMessage": {
+      "message": "تم حظر النافذة المنبثقة"
+   },
+   "notificationToggleLabel": {
+      "message": "عرض إخطار في الصفحة عند حظر نافذة منبثقة."
+   },
+   "options": {
+      "message": "الخيارات"
+   },
+   "popupsAllowed": {
+      "message": "النوافذ المنبثقة مسموح بها على هذا الموقع."
+   },
+   "popupsBlocked": {
+      "message": "النوافذ المنبثقة محظورة على هذا الموقع."
+   },
+   "rateLink": {
+      "message": "قيّمنا بـ 5 نجوم"
+   },
+   "thankyou": {
+      "message": "شكرا لك على ملاحظاتك"
+   },
+   "whitelistTip": {
+      "message": "للسماح بظهور النوافذ المنبثقة/السفلية في أحد المواقع، أضفه إلى هذه القائمة:"
+   },
+   "whitelistTitle": {
+      "message": "مواقع القائمة البيضاء"
+   }
+}

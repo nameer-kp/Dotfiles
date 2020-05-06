@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<title data-translate="extName">Options</title>
+		<link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="/assets/css/options.css" rel="stylesheet" />
+		<script src="/js/options/index.js"></script>
+		<!-- <script src="/js/libs/bootstrap.min.js"></script> -->
+	</head>
+	<body>
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<a class="navbar-brand">
+						<img src="/assets/images/icon48.png" id="icon">
+					</a>
+					<a class="navbar-brand" data-translate="extName"></a>
+				</div>
+			</div>
+		</nav>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="panel panel-info">
+						<div class="panel-heading">Notification Settings</div>
+						<div class="panel-body">
+							<div>
+								<input type="checkbox" id="notificationToggle"></input>
+								<label for="notificationToggle" data-translate="notificationToggleLabel"></label>
+							</div>
+							<div>
+								<input type="checkbox" id="badgeToggle"></input>
+								<label for="badgeToggle" data-translate="badgeToggleLabel"></label>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-info">
+						<div class="panel-heading" data-translate="whitelistTitle"></div>
+						<div class="panel-body">
+							<div data-translate="whitelistTip"></div>
+							<div>
+								<input class="form-control" type="text" id="patternBox" placeholder="e.g. 'google.com'"></input>
+							</div>
+						</div>
+						<div id="whitelist" class="list-group"></div>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="alert alert-success" role="alert" id="count"></div>
+					<div class="panel panel-default">
+						<div class="panel-heading" data-translate="linksTitle"></div>
+						<div id="whitelist" class="list-group">
+							<a class="list-group-item" id="review-me" href="#">
+								<span class="glyphicon glyphicon-star"></span> <span data-translate="rateLink"></span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Zahtevo mora biti več kot 2 znaki"
+   },
+   "appButtonDesc": {
+      "message": "Iskanje Torrentov"
+   },
+   "appDesc": {
+      "message": "Enostavno in hitro iskanje za knjige, glasbo, video posnetke, hudourniki."
+   },
+   "appName": {
+      "message": "Rutor Iskanje Torrentov"
+   },
+   "appPlaceholderPopup": {
+      "message": "Hudourniki iskanje"
+   },
+   "popupBlockMessage": {
+      "message": "Je nekaj narobe z proxy nastavitve!"
+   },
+   "popupEnableMessage": {
+      "message": "Če želite odblokirati rutor.info uporablja proxy nastavitve."
+   },
+   "proxyDisabled": {
+      "message": "Nastavitve strežnika Proxy izključen"
+   },
+   "proxyEnabled": {
+      "message": "Nastavitve strežnika Proxy uporablja"
+   }
+}

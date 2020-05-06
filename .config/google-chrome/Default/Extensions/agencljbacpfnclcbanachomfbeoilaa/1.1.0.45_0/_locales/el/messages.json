@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Η αίτηση πρέπει να είναι μεγαλύτερο από 2 χαρακτήρες"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Search"
+   },
+   "appDesc": {
+      "message": "Εύκολη και γρήγορη αναζήτηση για τα βιβλία, τη μουσική, τα βίντεο σε torrents."
+   },
+   "appName": {
+      "message": "Rutor Torrent Search"
+   },
+   "appPlaceholderPopup": {
+      "message": "Αναζήτηση Torrents"
+   },
+   "popupBlockMessage": {
+      "message": "Κάτι λάθος με τις ρυθμίσεις του διακομιστή μεσολάβησης!"
+   },
+   "popupEnableMessage": {
+      "message": "Για να ξεμπλοκάρετε rutor.info εφαρμόστε τις ρυθμίσεις του διακομιστή μεσολάβησης."
+   },
+   "proxyDisabled": {
+      "message": "Ρυθμίσεις διακομιστή μεσολάβησης απενεργοποιημένο"
+   },
+   "proxyEnabled": {
+      "message": "Ρυθμίσεις διακομιστή μεσολάβησης που εφαρμόζεται"
+   }
+}

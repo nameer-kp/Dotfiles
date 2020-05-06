@@ -1,0 +1,18 @@
+[Added Associations]
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+video/mp4=vlc.desktop;
+application/xml=code-oss.desktop;
+application/x-executable=code-oss.desktop;
+application/x-virtualbox-vdi=virtualbox.desktop;
+application/octet-stream=code-oss.desktop;
+application/x-shellscript=nautilus-autorun-software.desktop;
+video/x-matroska=vlc.desktop;
+text/x-java=code-oss.desktop;vim.desktop;jetbrains-idea-ce.desktop;
+inode/directory=jetbrains-idea-ce.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop

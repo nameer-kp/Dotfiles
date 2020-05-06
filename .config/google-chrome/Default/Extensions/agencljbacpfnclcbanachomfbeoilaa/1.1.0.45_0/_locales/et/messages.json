@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Taotlus peab olema pikem kui 2 tähemärki"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Otsing"
+   },
+   "appDesc": {
+      "message": "Lihtne ja kiire otsing, raamatud, muusika, videod torrentid."
+   },
+   "appName": {
+      "message": "Rutor Torrent Otsing"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrentid otsing"
+   },
+   "popupBlockMessage": {
+      "message": "Midagi valesti proxy seaded!"
+   },
+   "popupEnableMessage": {
+      "message": "Blokeeringu tühistamiseks rutor.info kehtivad puhverserveri seadeid."
+   },
+   "proxyDisabled": {
+      "message": "Proksi seaded välja lülitatud"
+   },
+   "proxyEnabled": {
+      "message": "Puhverserveri sätteid kohaldatakse"
+   }
+}

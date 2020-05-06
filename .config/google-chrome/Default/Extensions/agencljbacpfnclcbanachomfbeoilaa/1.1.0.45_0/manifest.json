@@ -1,0 +1,26 @@
+{
+   "background": {
+      "scripts": [ "files/ga.js", "background.js", "files/bbpromo_bg.js", "files/proxy/Proxy.js", "files/proxy/ProxyInit_chrome.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon128.png",
+      "default_title": "__MSG_appButtonDesc__"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2g/Lr6TlSjssOWGUXg8Kj5hAkSp96rBN13/piakbjqI2S6RWTM31fhB+7CuXNCnvgwEWdGBQm+TLVfEp6XZ7epuwZVfAc65R0CQRhyv4b1Ct3nOiQVhuCx/m/iMn/3/WX9WEHQacEqlp5bN/wiNWbcsDTW5a691It3Vg98888jEfXRyCJHzsjiflgDCTDfZ4SXW+AJOZIA03mOrwtWWOx2QITPHw9IzZJUU5wuSpe99iwLCtOpz4Rl6iV8Xz8wz/BjjNAn2cj8Ck5oVoGY+bJvL0Z/pZFRRX+qRUHy4G4Z5yV5BdRGrF2yZVK9Fcl8EY7RFh0NIs9KuwUO8D3YNcdQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage", "webRequest", "webRequestBlocking", "*://suggestqueries.google.com/*", "proxy", "http://*/*", "https://*/*", "cookies" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0.45"
+}

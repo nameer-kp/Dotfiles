@@ -1,0 +1,86 @@
+{
+  "extName": {
+    "message": "Poper Blocker"
+  },
+  "extDescription": {
+    "message": "无论您点击页面的任何地方，都可阻止弹出窗口和背后弹出式窗口。"
+  },
+  "whitelistTitle": {
+    "message": "白名单网站"
+  },
+  "whitelistTip": {
+    "message": "要允许某个网站的弹出窗口/背后弹出式窗口，将其添加到此列表："
+  },
+  "linksTitle": {
+    "message": "链接"
+  },
+  "rateLink": {
+    "message": "给我们5星评价"
+  },
+  "emailLink": {
+    "message": "给我们发电子邮件"
+  },
+  "bugLink": {
+    "message": "报告错误"
+  },
+  "popupsAllowed": {
+    "message": "允许此网站弹出窗口。"
+  },
+  "popupsBlocked": {
+    "message": "阻止此网站弹出窗口。"
+  },
+  "allowButtonLabel": {
+    "message": "允许弹出窗口"
+  },
+  "blockButtonLabel": {
+    "message": "阻止弹出窗口"
+  },
+  "options": {
+    "message": "选项"
+  },
+  "badgeToggleLabel": {
+    "message": "弹出窗口被阻止后，在工具栏按钮上显示徽章。"
+  },
+  "notificationToggleLabel": {
+    "message": "弹出窗口被阻止后，在网页上显示通知。"
+  },
+  "notificationMessage": {
+    "message": "被阻止弹出窗口"
+  },
+  "allowOnce": {
+    "message": "允许一次"
+  },
+  "allowAlways": {
+    "message": "始终允许"
+  },
+  "disableNotifications": {
+    "message": "禁用通知"
+  },
+  "feedback": {
+       "message": "如果我们错过了任何弹出窗口，请点击这里。"
+   },
+   "thankyou": {
+       "message": "感谢您的反馈”"
+   },
+  "disablePB": {
+    "message": "禁用"
+  },
+  "enablePB": {
+    "message": "启用"
+  },
+  "makeInvisible": {
+    "message": "使隐形"
+  },
+  "makeVisible": {
+    "message": "使可见"
+  },
+  "disabledPB": {
+    "message": "Popup Blocker Pro已被禁用"
+  },
+  "amount": {
+    "message": "自定义金额"
+  },
+  "donate":{
+    "message": "捐"
+  }
+}

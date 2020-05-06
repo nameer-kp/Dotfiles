@@ -1,0 +1,6 @@
+2020/05/05-22:28:45.607 6d83 Reusing MANIFEST /home/nameer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/05-22:28:45.607 6d83 Recovering log #489
+2020/05/05-22:28:45.607 6d83 Reusing old log /home/nameer/.config/google-chrome/Default/Local Storage/leveldb/000489.log 
+2020/05/05-22:28:59.881 6f7b Level-0 table #492: started
+2020/05/05-22:28:59.885 6f7b Level-0 table #492: 47167 bytes OK
+2020/05/05-22:28:59.887 6f7b Delete type=0 #489

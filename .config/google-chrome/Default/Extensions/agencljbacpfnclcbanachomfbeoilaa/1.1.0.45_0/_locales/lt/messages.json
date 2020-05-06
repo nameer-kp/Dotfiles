@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Prašymas turi būti ilgesnis nei 2 simbolių"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Paieškos"
+   },
+   "appDesc": {
+      "message": "Lengvai ir greitai ieškoti knygų, muzikos, vaizdo įrašus, torrent."
+   },
+   "appName": {
+      "message": "Rutor Torrent Paieškos"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrentų paieška"
+   },
+   "popupBlockMessage": {
+      "message": "Kažkas negerai su proxy nustatymus!"
+   },
+   "popupEnableMessage": {
+      "message": "Norėdami atblokuoti rutor.info taikyti tarpinio serverio parametrus."
+   },
+   "proxyDisabled": {
+      "message": "Tarpinio serverio parametrus išjungti"
+   },
+   "proxyEnabled": {
+      "message": "Proxy nustatymų"
+   }
+}

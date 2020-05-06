@@ -1,0 +1,25 @@
+{
+   "author": "Elior Boukhobza (mallowigi)",
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_popup": "/public/index.html",
+      "default_title": "Material DevTools Settings"
+   },
+   "description": "Material DevTools Theme Collection",
+   "devtools_page": "devtools.html",
+   "homepage_url": "https://www.material-theme.com",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzu06/fVvsPuiPF60QTQ6JVEqKJsR9Fep6PqpEkqraPNql0lp0trPFyCynfUiX8BDM4jZnqGfV3gnUoZROkagqvzj/2dNffvd/Tw1bTWNSUFTbxHovgILvVfMn1z/TFZuurH4ib89yB4MUqY/PALY6Y28Wd/LViBVMvqyZzpiPX05yVPWRZSQoJGhuORR2UVIufJbZMmdLEJHfHzO+d4t1DC/ociDDZNG0XEeZKgfGKuxJFwCRR2y6SBDNZYI8pmajIzesWPub4CKICqJ06fAUy5CMHOKEPIIcslekWECoqM7ewKT7fRxg88OOqi5DRLX8pcte1o/YFOnypTuDNhz1wIDAQAB",
+   "manifest_version": 2,
+   "name": "Material DevTools Theme Collection",
+   "options_page": "/public/index.html",
+   "permissions": [ "declarativeContent", "storage" ],
+   "short_name": "Material DevTools",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.7"
+}

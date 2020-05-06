@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "항상 허용"
+   },
+   "allowButtonLabel": {
+      "message": "팝업 허용"
+   },
+   "allowOnce": {
+      "message": "한 번만 허용"
+   },
+   "amount": {
+      "message": "맞춤 금액"
+   },
+   "badgeToggleLabel": {
+      "message": "팝업이 차단 될 때 도구 모음 단추에 배지를 표시합니다."
+   },
+   "blockButtonLabel": {
+      "message": "팝업 차단"
+   },
+   "bugLink": {
+      "message": "버그 신고"
+   },
+   "disableNotifications": {
+      "message": "알림 사용 안함"
+   },
+   "disablePB": {
+      "message": "사용 안함"
+   },
+   "disabledPB": {
+      "message": "팝업 차단기 프로가 사용 중지되었습니다."
+   },
+   "donate": {
+      "message": "기부"
+   },
+   "emailLink": {
+      "message": "이메일 보내기"
+   },
+   "enablePB": {
+      "message": "사용"
+   },
+   "extDescription": {
+      "message": "페이지 어디를 클릭하든 상관없이 팝업창과 팝언더창을 차단합니다."
+   },
+   "extName": {
+      "message": "Poper Blocker"
+   },
+   "feedback": {
+      "message": "팝업이 표시되지 않으면 여기를 클릭하십시오."
+   },
+   "linksTitle": {
+      "message": "링크"
+   },
+   "makeInvisible": {
+      "message": "보이지 않게하기"
+   },
+   "makeVisible": {
+      "message": "보이기"
+   },
+   "notificationMessage": {
+      "message": "팝업 차단"
+   },
+   "notificationToggleLabel": {
+      "message": "팝업 차단 시 페이지 알림을 표시합니다."
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "popupsAllowed": {
+      "message": "이 웹사이트에서 팝업창을 허용합니다."
+   },
+   "popupsBlocked": {
+      "message": "이 웹사이트에서 팝업창을 차단합니다."
+   },
+   "rateLink": {
+      "message": "별 5개를 주세요."
+   },
+   "thankyou": {
+      "message": "피드백에 감사드립니다."
+   },
+   "whitelistTip": {
+      "message": "웹사이트에서 팝업/팝언더 창을 허용하려면 이 목록에 추가하십시오."
+   },
+   "whitelistTitle": {
+      "message": "화이트리스트 사이트"
+   }
+}

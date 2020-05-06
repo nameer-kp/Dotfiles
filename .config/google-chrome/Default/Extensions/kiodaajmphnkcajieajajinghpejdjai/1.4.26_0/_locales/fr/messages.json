@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Toujours autoriser"
+   },
+   "allowButtonLabel": {
+      "message": "Autoriser les popups"
+   },
+   "allowOnce": {
+      "message": "Autoriser une fois"
+   },
+   "amount": {
+      "message": "Montant personnalisé"
+   },
+   "badgeToggleLabel": {
+      "message": "Afficher un badge sur le bouton de la barre d'outils lorsque un popup est bloqué."
+   },
+   "blockButtonLabel": {
+      "message": "Bloquer les popups"
+   },
+   "bugLink": {
+      "message": "Rapportez un bug"
+   },
+   "disableNotifications": {
+      "message": "Désactiver les notifications"
+   },
+   "disablePB": {
+      "message": "Désactiver"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro a été désactivé"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "emailLink": {
+      "message": "Envoyez-nous un e-mail"
+   },
+   "enablePB": {
+      "message": "Activer"
+   },
+   "extDescription": {
+      "message": "bloque les popups et les popunders, peu importe où vous cliquez sur une page."
+   },
+   "extName": {
+      "message": "Le Bloqueur de Poper"
+   },
+   "feedback": {
+      "message": "Si nous avons manqué un popup, s'il vous plaît cliquez ici."
+   },
+   "linksTitle": {
+      "message": "Liens"
+   },
+   "makeInvisible": {
+      "message": "Rendre invisible"
+   },
+   "makeVisible": {
+      "message": "Rendre visible"
+   },
+   "notificationMessage": {
+      "message": "Popup bloqué"
+   },
+   "notificationToggleLabel": {
+      "message": "Afficher une notification sur la page quand un popup est bloqué."
+   },
+   "options": {
+      "message": "Options"
+   },
+   "popupsAllowed": {
+      "message": "Les popups sont autorisés sur ce site Internet."
+   },
+   "popupsBlocked": {
+      "message": "Les popups sont bloqués sur ce site Internet."
+   },
+   "rateLink": {
+      "message": "Notez-nous 5 étoiles"
+   },
+   "thankyou": {
+      "message": "Merci pour votre retour"
+   },
+   "whitelistTip": {
+      "message": "Pour permettre les popups / popunders d'un site Web, ajoutez-le à cette liste :"
+   },
+   "whitelistTitle": {
+      "message": "Sites sur liste blanche"
+   }
+}

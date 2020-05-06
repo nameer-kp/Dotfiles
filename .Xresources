@@ -11,6 +11,9 @@ URxvt.font: xft:SourceCodePro:size:16
 !disabling Scroll bar
 URxvt.scrollBar: false
 
+!URxvt Extensions
+URxvt.perl-ext-common:font-size
+
 ! Cursor
 URxvt.cursorBlink:          true
 URxvt.cursorColor:          #657b83

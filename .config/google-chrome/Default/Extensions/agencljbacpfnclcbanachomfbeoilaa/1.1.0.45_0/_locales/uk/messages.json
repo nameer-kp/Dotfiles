@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Запит повинен бути більше 2 символів"
+   },
+   "appButtonDesc": {
+      "message": "Пошук Торрентів"
+   },
+   "appDesc": {
+      "message": "Зручний і швидкий пошук книг, музики, відео з торрентів."
+   },
+   "appName": {
+      "message": "Торрент Рутор Пошук"
+   },
+   "appPlaceholderPopup": {
+      "message": "Торренти пошук"
+   },
+   "popupBlockMessage": {
+      "message": "Щось не так з настройки проксі!"
+   },
+   "popupEnableMessage": {
+      "message": "Щоб розблокувати rutor.info застосувати налаштування проксі."
+   },
+   "proxyDisabled": {
+      "message": "Параметри проксі вимкнено"
+   },
+   "proxyEnabled": {
+      "message": "Параметри проксі-сервера застосовується"
+   }
+}

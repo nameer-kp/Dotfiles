@@ -1,0 +1,26 @@
+2020/05/06-11:25:09.677 4ce Reusing MANIFEST /home/nameer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/06-11:25:09.677 4ce Recovering log #491
+2020/05/06-11:25:09.679 4ce Reusing old log /home/nameer/.config/google-chrome/Default/Local Storage/leveldb/000491.log 
+2020/05/06-11:26:30.235 72b Level-0 table #495: started
+2020/05/06-11:26:30.239 72b Level-0 table #495: 47471 bytes OK
+2020/05/06-11:26:30.241 72b Delete type=0 #491
+2020/05/06-11:33:41.786 72b Level-0 table #497: started
+2020/05/06-11:33:41.790 72b Level-0 table #497: 29683 bytes OK
+2020/05/06-11:33:41.792 72b Delete type=0 #494
+2020/05/06-11:33:41.792 72b Compacting 4@0 + 2@1 files
+2020/05/06-11:33:41.822 72b Generated table #498@0: 3750 keys, 2131909 bytes
+2020/05/06-11:33:41.828 72b Generated table #499@0: 850 keys, 245713 bytes
+2020/05/06-11:33:41.828 72b Compacted 4@0 + 2@1 files => 2377622 bytes
+2020/05/06-11:33:41.831 72b compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/06-11:33:41.831 72b Delete type=2 #492
+2020/05/06-11:33:41.831 72b Delete type=2 #488
+2020/05/06-11:33:41.831 72b Delete type=2 #485
+2020/05/06-11:33:41.831 72b Delete type=2 #497
+2020/05/06-11:33:41.831 72b Delete type=2 #486
+2020/05/06-11:33:41.831 72b Delete type=2 #495
+2020/05/06-12:02:33.944 72b Level-0 table #501: started
+2020/05/06-12:02:33.947 72b Level-0 table #501: 15382 bytes OK
+2020/05/06-12:02:33.950 72b Delete type=0 #496
+2020/05/06-12:44:32.191 72b Level-0 table #503: started
+2020/05/06-12:44:32.195 72b Level-0 table #503: 15479 bytes OK
+2020/05/06-12:44:32.198 72b Delete type=0 #500

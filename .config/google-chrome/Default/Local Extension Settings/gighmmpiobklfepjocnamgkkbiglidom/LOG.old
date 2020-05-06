@@ -1,0 +1,17 @@
+2020/05/05-22:28:45.719 6d83 Reusing MANIFEST /home/nameer/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/05/05-22:28:45.719 6d83 Recovering log #860
+2020/05/05-22:28:45.719 6d83 Reusing old log /home/nameer/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000860.log 
+2020/05/05-22:29:46.928 6fd7 Level-0 table #863: started
+2020/05/05-22:29:47.009 6fd7 Level-0 table #863: 5174672 bytes OK
+2020/05/05-22:29:47.013 6fd7 Delete type=0 #860
+2020/05/05-22:29:47.014 6fd7 Compacting 4@0 + 2@1 files
+2020/05/05-22:29:47.102 6fd7 Generated table #864@0: 1 keys, 5174672 bytes
+2020/05/05-22:29:47.106 6fd7 Generated table #865@0: 7 keys, 410 bytes
+2020/05/05-22:29:47.106 6fd7 Compacted 4@0 + 2@1 files => 5175082 bytes
+2020/05/05-22:29:47.109 6fd7 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #857
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #859
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #852
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #840
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #854
+2020/05/05-22:29:47.109 6fd7 Delete type=2 #863

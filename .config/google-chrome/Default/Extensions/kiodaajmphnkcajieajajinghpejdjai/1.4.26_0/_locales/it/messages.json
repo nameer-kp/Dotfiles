@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Consentire sempre"
+   },
+   "allowButtonLabel": {
+      "message": "Consentire i Popup"
+   },
+   "allowOnce": {
+      "message": "Consentire una volta"
+   },
+   "amount": {
+      "message": "Importo personalizzato"
+   },
+   "badgeToggleLabel": {
+      "message": "Mostrare un distintivo sul pulsante della barra degli strumenti quando un popup viene bloccato."
+   },
+   "blockButtonLabel": {
+      "message": "Bloccare i Popup"
+   },
+   "bugLink": {
+      "message": "Segnala un bug"
+   },
+   "disableNotifications": {
+      "message": "Disabilita le notifiche"
+   },
+   "disablePB": {
+      "message": "Disattiva Popup Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro è stato disabilitato"
+   },
+   "donate": {
+      "message": "Donare"
+   },
+   "emailLink": {
+      "message": "Invia un email"
+   },
+   "enablePB": {
+      "message": "Abilita Popup Blocker Pro"
+   },
+   "extDescription": {
+      "message": "Blocca i Popup e Popunder a prescindere da dove l'utente clicchi su una pagina."
+   },
+   "extName": {
+      "message": "Blocco dei Popup"
+   },
+   "feedback": {
+      "message": "Se abbiamo perso qualsiasi popup, per favore clicca qui."
+   },
+   "linksTitle": {
+      "message": "Link"
+   },
+   "makeInvisible": {
+      "message": "Rendi invisibile"
+   },
+   "makeVisible": {
+      "message": "Rendi visibile"
+   },
+   "notificationMessage": {
+      "message": "Popup bloccato"
+   },
+   "notificationToggleLabel": {
+      "message": "Mostrare una notifica sulla pagina quando un Popup viene bloccato."
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "popupsAllowed": {
+      "message": "Popup consentiti per questo sito web."
+   },
+   "popupsBlocked": {
+      "message": "Popup bloccati per questo sito web."
+   },
+   "rateLink": {
+      "message": "Dacci una valutazione da 5 stelle"
+   },
+   "thankyou": {
+      "message": "Grazie per il feedback"
+   },
+   "whitelistTip": {
+      "message": "Per consenstire Popup/Popunder da un determinato sito web, aggiungere l'URL in questa lista:"
+   },
+   "whitelistTitle": {
+      "message": "Siti consentiti"
+   }
+}

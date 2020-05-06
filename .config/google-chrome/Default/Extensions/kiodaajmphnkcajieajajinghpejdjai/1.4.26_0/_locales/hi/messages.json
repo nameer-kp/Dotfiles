@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "सदैव\nअनुमति दें"
+   },
+   "allowButtonLabel": {
+      "message": "पॉपअप्स\nकी अनुमति दें"
+   },
+   "allowOnce": {
+      "message": "एक बार\nअनुमति दें"
+   },
+   "amount": {
+      "message": "कस्टम राशि"
+   },
+   "badgeToggleLabel": {
+      "message": "कोई\nपॉपअप ब्लॉक होने पर टूलबार बटन पर बैज दर्शाएं।"
+   },
+   "blockButtonLabel": {
+      "message": "पॉपअप्स\nब्लॉक करें"
+   },
+   "bugLink": {
+      "message": "बग की\nरिपोर्ट करें"
+   },
+   "disableNotifications": {
+      "message": "अधिसूचनाएं\nनिष्क्रिय करें"
+   },
+   "disablePB": {
+      "message": "पॉपअप अवरोधक प्रो अक्षम करें"
+   },
+   "disabledPB": {
+      "message": "पॉपअप अवरोधक प्रो अक्षम कर दिया गया है"
+   },
+   "donate": {
+      "message": "दान करना"
+   },
+   "emailLink": {
+      "message": "हमें\nईमेल करें"
+   },
+   "enablePB": {
+      "message": "पॉपअप अवरोधक प्रो सक्षम करें"
+   },
+   "extDescription": {
+      "message": "पॉपअप्स\nऔर पॉपअंडर्स ब्लॉक करता है भले ही आपने पेज पर कहीं भी क्लिक किया हो।"
+   },
+   "extName": {
+      "message": "पॉपर\nब्लॉकर"
+   },
+   "feedback": {
+      "message": "अगर हम किसी पॉपअप को याद करते हैं, तो कृपया यहां क्लिक करें।"
+   },
+   "linksTitle": {
+      "message": "लिंक्स"
+   },
+   "makeInvisible": {
+      "message": "अदृश्य बनाओ"
+   },
+   "makeVisible": {
+      "message": "दृश्यमान बनाओ"
+   },
+   "notificationMessage": {
+      "message": "पॉपअप\nब्लॉक किया हुआ"
+   },
+   "notificationToggleLabel": {
+      "message": "कोई\nपॉपअप ब्लॉक होने पर पेज पर एक अधिसूचना दिखाएं।"
+   },
+   "options": {
+      "message": "विकल्प"
+   },
+   "popupsAllowed": {
+      "message": "इस\nसाइट पर पॉपअप्स की अनुमति है।"
+   },
+   "popupsBlocked": {
+      "message": "इस\nसाइट पर पॉपअप्स ब्लॉक किए हैं।"
+   },
+   "rateLink": {
+      "message": "हमें 5\nस्टार की रेटिंग दें"
+   },
+   "thankyou": {
+      "message": "धन्यवाद प्रतिक्रिया देना के लिए"
+   },
+   "whitelistTip": {
+      "message": "वेबसाइट\nसे पॉपअप्स/पॉपअंडर्स को अनुमति देने के लिए, इसे इस सूची में इसे\nजोड़ें:"
+   },
+   "whitelistTitle": {
+      "message": "विधिसंगत\nसाइट्स"
+   }
+}

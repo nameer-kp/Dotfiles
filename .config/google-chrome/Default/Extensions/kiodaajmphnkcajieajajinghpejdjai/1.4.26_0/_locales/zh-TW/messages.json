@@ -1,0 +1,86 @@
+{
+  "extName": {
+    "message": "Poper Blocker"
+  },
+  "extDescription": {
+    "message": "無論您點擊頁面的任何地方，皆可阻止快顯視窗和背後彈出式視窗。"
+  },
+  "whitelistTitle": {
+    "message": "允許清單網站"
+  },
+  "whitelistTip": {
+    "message": "要允許某網站的快顯視窗/背後彈出式視窗，將其新增到此清單："
+  },
+  "linksTitle": {
+    "message": "連結"
+  },
+  "rateLink": {
+    "message": "給我們5星評價"
+  },
+  "emailLink": {
+    "message": "給我們發電子郵件"
+  },
+  "bugLink": {
+    "message": "報告錯誤"
+  },
+  "popupsAllowed": {
+    "message": "允許此網站快顯視窗。"
+  },
+  "popupsBlocked": {
+    "message": "阻止此網站快顯視窗。"
+  },
+  "allowButtonLabel": {
+    "message": "允許快顯視窗"
+  },
+  "blockButtonLabel": {
+    "message": "阻止快顯視窗"
+  },
+  "options": {
+    "message": "選項"
+  },
+  "badgeToggleLabel": {
+    "message": "快顯視窗被阻止後，在工具列按鈕上顯示徽章。"
+  },
+  "notificationToggleLabel": {
+    "message": "快顯視窗被阻止後，在網頁上顯示通知。"
+  },
+  "notificationMessage": {
+    "message": "被阻止快顯視窗"
+  },
+  "allowOnce": {
+    "message": "允許一次"
+  },
+  "allowAlways": {
+    "message": "始終允許"
+  },
+  "disableNotifications": {
+    "message": "停用通知"
+  },
+  "feedback": {
+       "message": "如果我們錯過了任何彈出窗口，請點擊這裡。"
+   },
+   "thankyou": {
+       "message": "感謝您的反饋”"
+   },
+  "disablePB": {
+    "message": "禁用"
+  },
+  "enablePB": {
+    "message": "啟用"
+  },
+  "makeInvisible": {
+    "message": "讓人看不見"
+  },
+  "makeVisible": {
+    "message": "使可見"
+  },
+  "disabledPB": {
+    "message": "Popup Blocker Pro已被禁用"
+  },
+  "amount": {
+    "message": "自定義金額"
+  },
+  "donate":{
+    "message": "捐"
+  }
+}

@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Begäran måste vara längre än 2 tecken"
+   },
+   "appButtonDesc": {
+      "message": "Sök"
+   },
+   "appDesc": {
+      "message": "Enkel och snabb sökning efter böcker, musik, videor på torrents."
+   },
+   "appName": {
+      "message": "Rutor Torrent Search"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrents sök"
+   },
+   "popupBlockMessage": {
+      "message": "Något fel med proxy-inställningar!"
+   },
+   "popupEnableMessage": {
+      "message": "För att häva blockeringen rutor.info gäller proxy-inställningar."
+   },
+   "proxyDisabled": {
+      "message": "Proxy-inställningar avstängd"
+   },
+   "proxyEnabled": {
+      "message": "Proxy-inställningar tillämpas"
+   }
+}

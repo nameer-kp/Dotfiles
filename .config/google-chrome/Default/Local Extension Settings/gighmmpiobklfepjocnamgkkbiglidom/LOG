@@ -1,0 +1,25 @@
+2020/05/06-11:25:09.799 4d3 Reusing MANIFEST /home/nameer/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/05/06-11:25:09.799 4d3 Recovering log #862
+2020/05/06-11:25:09.878 4d3 Level-0 table #867: started
+2020/05/06-11:25:09.956 4d3 Level-0 table #867: 5180490 bytes OK
+2020/05/06-11:25:09.961 4d3 Delete type=0 #862
+2020/05/06-11:26:10.418 729 Level-0 table #870: started
+2020/05/06-11:26:10.499 729 Level-0 table #870: 5180278 bytes OK
+2020/05/06-11:26:10.501 729 Delete type=0 #868
+2020/05/06-12:26:10.075 729 Level-0 table #872: started
+2020/05/06-12:26:10.183 729 Level-0 table #872: 5180632 bytes OK
+2020/05/06-12:26:10.186 729 Delete type=0 #869
+2020/05/06-12:26:10.376 729 Level-0 table #874: started
+2020/05/06-12:26:10.477 729 Level-0 table #874: 5180439 bytes OK
+2020/05/06-12:26:10.480 729 Delete type=0 #871
+2020/05/06-12:26:10.482 729 Compacting 4@0 + 2@1 files
+2020/05/06-12:26:10.586 729 Generated table #875@0: 1 keys, 5180439 bytes
+2020/05/06-12:26:10.590 729 Generated table #876@0: 7 keys, 410 bytes
+2020/05/06-12:26:10.590 729 Compacted 4@0 + 2@1 files => 5180849 bytes
+2020/05/06-12:26:10.592 729 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/06-12:26:10.592 729 Delete type=2 #867
+2020/05/06-12:26:10.592 729 Delete type=2 #874
+2020/05/06-12:26:10.592 729 Delete type=2 #864
+2020/05/06-12:26:10.592 729 Delete type=2 #865
+2020/05/06-12:26:10.592 729 Delete type=2 #870
+2020/05/06-12:26:10.592 729 Delete type=2 #872

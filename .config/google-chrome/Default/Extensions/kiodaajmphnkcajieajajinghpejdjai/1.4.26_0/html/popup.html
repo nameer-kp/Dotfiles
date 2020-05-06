@@ -1,0 +1,60 @@
+<html>
+<head>
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/css/popup.css" />
+    <script src="/js/popup/index.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse ">
+    <div class="container-fluid">
+
+        <a href="#" id="settingsButton" class="btn btn-link navbar-btn pull-right">
+            <span class="glyphicon glyphicon-cog"></span>
+        </a>
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">
+                <img style="display: inline-block;vertical-align: text-top;" src="/assets/images/icon19.png">
+                <span data-translate="extName"></span>
+            </a>
+        </div>
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+<div class="container" id="on" style="display: block;">
+
+    <!-- <div class="alert alert-success" role="alert" id="count" style="text-align:center"></div> -->
+    <div class="well" style="text-align:center">
+        <h4 id="url"></h4>
+
+        <p id="status"></p>
+        <button id="allowButton" class="btn btn-success">
+
+            <span data-translate="allowButtonLabel"></span>
+        </button>
+        <button id="blockButton" class="btn btn-warning">
+
+            <span data-translate="blockButtonLabel"></span>
+        </button>
+    </div>
+    <button id="feedback" class="btn btn-success btn-block">
+        <span data-translate="feedback"></span>
+    </button>
+    <div class="text-center">
+        <h3>
+            <label id="thankyou" class="label label-warning" style="display: none;">
+                <span data-translate="thankyou"></span>
+            </label>
+        </h3>
+        <!-- <div class="btn-group donate">
+            <button type="button" class="btn btn-primary" id="donate" data-translate="donate"></button>
+        </div> -->
+    </div>
+</div>
+<div class="container" id="off" style="display: none;">
+    <div class="well" style="text-align:center">
+        <h4 id="disabled"></h4>
+    </div>
+</div>
+</body>
+</html>

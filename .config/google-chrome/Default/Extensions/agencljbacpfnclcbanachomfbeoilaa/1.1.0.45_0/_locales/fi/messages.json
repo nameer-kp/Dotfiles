@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "Pyynnön on oltava pidempi kuin 2 merkkiä"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Search"
+   },
+   "appDesc": {
+      "message": "Helppo ja nopea etsiä kirjoja, musiikkia, videoita torrentit."
+   },
+   "appName": {
+      "message": "Rutor Torrent Search"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrent search"
+   },
+   "popupBlockMessage": {
+      "message": "Jotain vikaa välityspalvelimen asetukset!"
+   },
+   "popupEnableMessage": {
+      "message": "Lukituksen rutor.info levitä proxy-asetukset."
+   },
+   "proxyDisabled": {
+      "message": "Proxy-asetukset pois päältä"
+   },
+   "proxyEnabled": {
+      "message": "Proxy-asetuksia sovelletaan"
+   }
+}

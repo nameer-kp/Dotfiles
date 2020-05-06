@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "常に許可する"
+   },
+   "allowButtonLabel": {
+      "message": "ポップアップを許可する"
+   },
+   "allowOnce": {
+      "message": "一時的に許可する"
+   },
+   "amount": {
+      "message": "カスタム金額"
+   },
+   "badgeToggleLabel": {
+      "message": "ポップアップがブロックされた際に、ツールバーボタンでバッジを表示します。"
+   },
+   "blockButtonLabel": {
+      "message": "ポップアップをブロックする"
+   },
+   "bugLink": {
+      "message": "バグを報告する"
+   },
+   "disableNotifications": {
+      "message": "通知を無効にする"
+   },
+   "disablePB": {
+      "message": "無効にする"
+   },
+   "disabledPB": {
+      "message": "ポップアップブロッカーProが無効になっています"
+   },
+   "donate": {
+      "message": "寄付する"
+   },
+   "emailLink": {
+      "message": "メールで問い合わせる"
+   },
+   "enablePB": {
+      "message": "有効にする"
+   },
+   "extDescription": {
+      "message": "ページ内のどこをクリックしても、ポップアップやポップアンダーを表示させないようにする。"
+   },
+   "extName": {
+      "message": "ポップアップブロッカー"
+   },
+   "feedback": {
+      "message": "ポップアップが表示されない場合は、ここをクリックしてください。"
+   },
+   "linksTitle": {
+      "message": "リンク"
+   },
+   "makeInvisible": {
+      "message": "目に見えないものを作る"
+   },
+   "makeVisible": {
+      "message": "見えるようにする"
+   },
+   "notificationMessage": {
+      "message": "ポップアップがブロックされました"
+   },
+   "notificationToggleLabel": {
+      "message": "ポップアップがブロックされた際に、ページ上で通知を表示します。"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "popupsAllowed": {
+      "message": "このウェブサイトではポップアップが許可されています。"
+   },
+   "popupsBlocked": {
+      "message": "このウェブサイトでは、ポップアップがブロックされています。"
+   },
+   "rateLink": {
+      "message": "アプリを５つ星評価する"
+   },
+   "thankyou": {
+      "message": "フィードバックありがとう"
+   },
+   "whitelistTip": {
+      "message": "あるウェブサイトでポップアップやポップアンダーの表示を許可するために、このリストに追加する："
+   },
+   "whitelistTitle": {
+      "message": "ホワイトリストサイト"
+   }
+}

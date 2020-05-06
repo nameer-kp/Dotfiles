@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Salli aina"
+   },
+   "allowButtonLabel": {
+      "message": "Salli ponnahdusikkunat"
+   },
+   "allowOnce": {
+      "message": "Salli kerran"
+   },
+   "amount": {
+      "message": "Mukautettu summa"
+   },
+   "badgeToggleLabel": {
+      "message": "Näytä merkki työkalurivin painikkeessa, kun ponnahdusikkuna on estetty."
+   },
+   "blockButtonLabel": {
+      "message": "Estä ponnahdusikkunat"
+   },
+   "bugLink": {
+      "message": "Ilmoita virheestä"
+   },
+   "disableNotifications": {
+      "message": "Poista ilmoitukset käytöstä"
+   },
+   "disablePB": {
+      "message": "Poista Popup Blocker Pro käytöstä"
+   },
+   "disabledPB": {
+      "message": "Poista Popup Blocker Pro käytöstä"
+   },
+   "donate": {
+      "message": "Lahjoittaa"
+   },
+   "emailLink": {
+      "message": "Lähetä meille sähköpostia"
+   },
+   "enablePB": {
+      "message": "Ota käyttöön Popup Blocker Pro"
+   },
+   "extDescription": {
+      "message": "Estää ponnahdusikkunat ja sivun alle avautuvat ikkunat riippumatta siitä, missä kohtaa sivulla klikkaat."
+   },
+   "extName": {
+      "message": "Ponnahdusikkunoiden estäjä"
+   },
+   "feedback": {
+      "message": "Jos meiltä puuttuu ponnahdusikkuna, napsauta tästä."
+   },
+   "linksTitle": {
+      "message": "Linkit"
+   },
+   "makeInvisible": {
+      "message": "Tee näkymättömiä"
+   },
+   "makeVisible": {
+      "message": "Tee näkyvä"
+   },
+   "notificationMessage": {
+      "message": "Ponnahdusikkuna estetty"
+   },
+   "notificationToggleLabel": {
+      "message": "Näytä sivulla ilmoitus, kun ponnahdusikkuna on estetty."
+   },
+   "options": {
+      "message": "Vaihtoehdot"
+   },
+   "popupsAllowed": {
+      "message": "Ponnahdusikkunat ovat sallittuja tällä sivustolla."
+   },
+   "popupsBlocked": {
+      "message": "Ponnahdusikkunat on estetty tällä sivustolla."
+   },
+   "rateLink": {
+      "message": "Anna meille 5 tähteä"
+   },
+   "thankyou": {
+      "message": "Kiitos palautteesta"
+   },
+   "whitelistTip": {
+      "message": "Salliaksesi ponnahdusikkunat / sivun alle avautuvat ikkunat internetsivulta, lisää se tähän luetteloon:"
+   },
+   "whitelistTitle": {
+      "message": "Sallitut sivustot"
+   }
+}

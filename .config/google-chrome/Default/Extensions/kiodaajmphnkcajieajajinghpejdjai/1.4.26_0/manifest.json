@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "/js/background/index.js" ]
+   },
+   "browser_action": {
+      "default_icon": "/assets/images/icon19.png",
+      "default_popup": "/html/popup.html",
+      "default_title": "Popup Blocker Pro"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "/assets/css/toast.css" ],
+      "js": [ "/js/content/index.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "http://popup-blocker.org",
+   "icons": {
+      "128": "/assets/images/icon128.png",
+      "16": "/assets/images/icon16.png",
+      "48": "/assets/images/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZXwzAajEZ5/64GQCuMAeYDLv8lvwb9VLbyvgkYTCQbq7IhRcBVlpRrT/oa7LrCbCtOi6Bv785PoFxtXFtSABywOR19vhIjxs21XOxRDEEtk9SfV20Hga1aFNy1bSwRLHivpD3TVxw7FByNGpgJtB8hOCkKWNqG0R+UV+eL28eqD2i0fbPzVIPuI16RSgRglDioVuSh5utAmKXMiES6dAfxE3LlVmecMJux6Vjwv+bO4y7rTiUsoPJRLxUk8XO7IKCOjkNt9TjAvWQtHUSyEpMVhYiikhCm2xs63/UjLro2eMzh4Qt1mqJ53XUlwz/IQ4BEjxV7LKXr5BMYKu3dyewIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "html/options.html",
+   "permissions": [ "\u003Call_urls>", "storage", "webRequest", "webRequestBlocking", "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.26",
+   "web_accessible_resources": [ "/assets/images/*.png" ]
+}

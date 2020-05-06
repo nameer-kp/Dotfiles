@@ -1,0 +1,29 @@
+{
+   "appAlertPopup": {
+      "message": "A kérelmet hosszabb, mint 2 karaktert"
+   },
+   "appButtonDesc": {
+      "message": "Torrent Keresés"
+   },
+   "appDesc": {
+      "message": "Könnyű, gyors keresés a könyvek, a zene, videók a torrentet."
+   },
+   "appName": {
+      "message": "Rutor Torrent Keresés"
+   },
+   "appPlaceholderPopup": {
+      "message": "Torrentek keresés"
+   },
+   "popupBlockMessage": {
+      "message": "Valami baj van a proxy beállításokat!"
+   },
+   "popupEnableMessage": {
+      "message": "A feloldáshoz rutor.info alkalmazni proxy beállításokat."
+   },
+   "proxyDisabled": {
+      "message": "Proxy beállítások kikapcsolva"
+   },
+   "proxyEnabled": {
+      "message": "Proxy beállítások alkalmazása"
+   }
+}

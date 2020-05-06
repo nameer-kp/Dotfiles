@@ -1,0 +1,86 @@
+{
+   "allowAlways": {
+      "message": "Permitir siempre"
+   },
+   "allowButtonLabel": {
+      "message": "Permitir ventanas emergentes"
+   },
+   "allowOnce": {
+      "message": "Permitir una vez"
+   },
+   "amount": {
+      "message": "Cantidad personalizada"
+   },
+   "badgeToggleLabel": {
+      "message": "Mostrar una insignia en la barra de herramientas cuando se bloquee una ventana emergente."
+   },
+   "blockButtonLabel": {
+      "message": "Bloquear ventanas emergentes"
+   },
+   "bugLink": {
+      "message": "Informar de un fallo"
+   },
+   "disableNotifications": {
+      "message": "Desactivar notificaciones"
+   },
+   "disablePB": {
+      "message": "Deshabilitar Popup Blocker Pro"
+   },
+   "disabledPB": {
+      "message": "Popup Blocker Pro ha sido desactivado"
+   },
+   "donate": {
+      "message": "Donar"
+   },
+   "emailLink": {
+      "message": "Envíenos un correo electrónico"
+   },
+   "enablePB": {
+      "message": "Habilitar Popup Blocker Pro"
+   },
+   "extDescription": {
+      "message": "Bloquea las ventanas emergentes y pop-unders sin importar donde haga clic en la página."
+   },
+   "extName": {
+      "message": "Poper Blocker"
+   },
+   "feedback": {
+      "message": "Si nos perdimos cualquier ventana emergente, haga clic aquí."
+   },
+   "linksTitle": {
+      "message": "Enlaces"
+   },
+   "makeInvisible": {
+      "message": "Hacer invisible"
+   },
+   "makeVisible": {
+      "message": "Hacer visible"
+   },
+   "notificationMessage": {
+      "message": "Ventana emergente bloqueada"
+   },
+   "notificationToggleLabel": {
+      "message": "Mostrar una notificación en la página cuando se bloquee una ventana emergente."
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "popupsAllowed": {
+      "message": "Se permiten ventanas emergentes de este sitio web."
+   },
+   "popupsBlocked": {
+      "message": "Las ventanas emergentes de este sitio web están bloqueadas."
+   },
+   "rateLink": {
+      "message": "Califíquenos con 5 estrellas"
+   },
+   "thankyou": {
+      "message": "Gracias por los comentarios"
+   },
+   "whitelistTip": {
+      "message": "Para permitir ventanas emergentes y pop-unders de un sitio web, añádalo a esta lista:"
+   },
+   "whitelistTitle": {
+      "message": "Sitios en lista blanca"
+   }
+}
